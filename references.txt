@@ -1,14 +1,27 @@
-Download/Install:
-	https://groovy.apache.org/download.html
+Book:
+	Programming Groovy : dynamic productivity for the Java developer
+	Venkat. Subramaniam ; Daniel H Steinberg (Daniel Howard), 1959- ; c2008
 
-Documentation:
-	http://groovy-lang.org/documentation.html
-
-Learn:
+Websites:
 	http://groovy-lang.org/learn.html
 
 	http://groovy-lang.org/groovyconsole.html
 
 	https://www.tutorialspoint.com/groovy/
+
+Reference Manual (Documentation):
+	http://groovy-lang.org/documentation.html
+	
+Community: 
+	http://groovy-lang.org/community.html
+
+Major Project:
+
+Download/Install:
+	https://groovy.apache.org/download.html
+
+
+
+
 
 	
